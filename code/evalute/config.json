@@ -1,0 +1,5 @@
+{
+  "model_name": "xgboost",
+  "fine_tune": false,
+  "scaler_type": "standard"
+}
